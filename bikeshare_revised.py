@@ -23,7 +23,7 @@ def get_filters():
     They are then given options to filer the data further - by a particular month/day/both or none. If they choose none
     the data is filtered just by the city.
 
-    """ 
+    """
     print('Hello! Let\'s explore some US bikeshare data!')
     res='yes'
 
@@ -267,6 +267,10 @@ def user_stats(df):
     print('-'*40)
 
 def get_raw_data(df):
+    """
+    Asks user if they want to view the first 5 lines of filtered raw data. If they select yes, then it asks if they want
+    to view the next 5 and so on until they say no.
+    """ 
     print ('Would you like to see the first 5 lines of raw data?')
     raw_data = input('yes/no\n')
     raw_data=raw_data.lower()
