@@ -29,14 +29,14 @@ The _**bikeshare_revised.py**_ contains the code to run the program.
 ##### Here are my references for the Bikeshare project
 
 * *Python Crash Course* by **Erik Matthes**
-* stackoverflow.com
-* pandas.pythong.org
-* geeksforgeeks.org
-* youtube.com
+* [Stack-Overflow](https://stackoverflow.com/)
+* [Pandas](https://pandas.pydata.org/)
+* [GeeksforGeeks](https://www.geeksforgeeks.org)
+* [YouTube](https://www.youtube.com/)
 
 ##### Here are my referenced for Git
 
-* git-scm.com
+* [Git-SCM](https://git-scm.com/)
 * *Pro Git* by **Scott Chacon** and **Ben Straub**
-* guides.github.com
-* udacity.github.io
+* [Git-Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Commit-Styleguide](https://udacity.github.io/git-styleguide/)
