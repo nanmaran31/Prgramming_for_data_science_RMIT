@@ -1,5 +1,3 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
 Created on: 06/09/2021
 
@@ -20,7 +18,7 @@ Furthermore, an interactive user experience was created (*via terminal using pyt
   organisation of the code and improved readability.
 * User input was taken to filter the data to compute statistics. The data was filtered by city first (Chicago, New York or Washington).
 * The users then had the option to further filter the data by month/day/both/none.
-* The various statistics are then displayed. 
+* The various statistics are then displayed.
 * Finally, the users are given an option to view the filtered raw data.
 
 
