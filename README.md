@@ -32,4 +32,11 @@ The _**bikeshare_revised.py**_ contains the code to run the program.
 * stackoverflow.com
 * pandas.pythong.org
 * geeksforgeeks.org
-* youtube.com 
+* youtube.com
+
+##### Here are my referenced for Git
+
+* git-scm.com
+* *Pro Git* by **Scott Chacon** and **Ben Straub**
+* guides.github.com
+* udacity.github.io
