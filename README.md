@@ -14,6 +14,15 @@ I wrote a **Python** code to import data bike share system data for three major 
 
 Furthermore, an interactive user experience was created (*via terminal using python code*) to explore the data. This was enabled by computing Descriptive Statistics using the raw data(*and user preferences*).
 
+### Code Structure
+
+* **Functions** were created to represent every part of the project and called later in a main function. This helped with the
+  organisation of the code and improved readability.
+* User input was taken to filter the data to compute statistics. The data was filtered by city first (Chicago, New York or Washington).
+* The users then had the option to further filter the data by month/day/both/none.
+* The various statistics are then displayed. 
+* Finally, the users are given an option to view the filtered raw data.
+
 
 
 ### Files used
