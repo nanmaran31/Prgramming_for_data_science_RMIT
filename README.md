@@ -22,7 +22,14 @@ The following files were used for raw data: (*these are hidden using .gitignore 
 * new_york_city.csv
 * washington.csv
 
-The ***bikeshare_revised.py*** contains the code to run the program. 
+The _**bikeshare_revised.py**_ contains the code to run the program.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+##### Here are my references for the Bikeshare project
+
+* *Python Crash Course* by **Erik Matthes**
+* stackoverflow.com
+* pandas.pythong.org
+* geeksforgeeks.org
+* youtube.com 
